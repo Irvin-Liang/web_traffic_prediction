@@ -1,0 +1,8 @@
+# Data folder
+data/
+
+# OS store file
+.DS_Store
+
+# Checkpoint files
+.ipynb_checkpoints
