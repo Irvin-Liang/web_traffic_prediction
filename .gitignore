@@ -6,3 +6,6 @@ data/
 
 # Checkpoint files
 .ipynb_checkpoints
+
+# Result data
+*.csv
